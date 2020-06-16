@@ -1,0 +1,15 @@
+ Volume in drive C is PwC_OS
+ Volume Serial Number is B0CD-18CE
+
+ Directory of C:\Rakesh\IntelliJProject
+
+06/16/2020  01:41 PM    <DIR>          .
+06/16/2020  01:41 PM    <DIR>          ..
+06/16/2020  01:40 PM    <DIR>          .idea
+06/14/2020  07:16 PM               844 IntelliJProject.iml
+06/14/2020  07:12 PM    <DIR>          out
+06/14/2020  07:17 PM               433 pom.xml
+06/16/2020  01:41 PM                 0 sample.txt
+06/14/2020  07:15 PM    <DIR>          src
+               3 File(s)          1,277 bytes
+               5 Dir(s)  130,693,586,944 bytes free
